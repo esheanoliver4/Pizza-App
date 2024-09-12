@@ -1,0 +1,78 @@
+/* About.css */
+
+.about-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .hero-section {
+    background-color: #ffcc00;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+  }
+  
+  .hero-section h1 {
+    font-size: 2.5rem;
+    color: #fff;
+  }
+  
+  .hero-section p {
+    font-size: 1.2rem;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  .hero-section .btn-primary {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #d35400;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .hero-section .btn-primary:hover {
+    background-color: #ffddbf;
+    color: #333;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    font-size: 1.8rem;
+    color: #d35400;
+  }
+  
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-story, .about-values, .about-mission, .about-testimonials {
+    margin-bottom: 30px;
+  }
+  
+  .about-testimonials p {
+    font-style: italic;
+    font-size: 1.1rem;
+  }
+  
